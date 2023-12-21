@@ -20,5 +20,3 @@ Technical Details:
 Written in Java, this program exemplifies object-oriented programming principles.
 The maze is represented as a 2D boolean array, making it efficient for the solver to navigate and check for walls.
 The Brain class's logic is based on evaluating available directions and marking visited positions to avoid loops.
-
-![image](https://github.com/ayocloudi/escapeSolution/assets/126922387/52f6e9e7-3380-4205-bb2b-d6c0566b48b1)
